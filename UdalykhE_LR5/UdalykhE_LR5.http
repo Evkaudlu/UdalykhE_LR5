@@ -1,0 +1,6 @@
+@UdalykhE_LR5_HostAddress = http://localhost:5068
+
+GET {{UdalykhE_LR5_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
